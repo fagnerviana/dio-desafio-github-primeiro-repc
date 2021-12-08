@@ -16,8 +16,12 @@ O Git é o sistema opensource de controle de versão mais popular da internet.
 * Preparado (staged/index)
 * Consolidado (comitted);
 
-## Alguns Comandos
+## Operações principais:
 
 Comandos | Descrição
 -------- | --------
-git status | status resumido
+CLONE | Copia o repositório remoto para seu computador
+PULL | Atualiza seu repositório local em relação ao repositório remoto
+COMMIT | Salva uma nova versão (tipicamente no seu repositório local)
+PUSH | Envia o repositório local para o repositório remoto
+
