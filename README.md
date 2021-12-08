@@ -43,10 +43,10 @@ PUSH | Envia o repositório local para o repositório remoto
 automaticamente, escolha o seu tipo desejado de .gitignore na tela de criação de repositório do
 Github
 3. Abra um terminal na pasta do seu projeto
-4. Certifique-se de estar identificado no Git do seu computador (nome e email)
-  git config --list
-  git config --global user.name "Fagner Viana"
-  git config --global user.email "fagsantiago@gmail.com"
+4. Certifique-se de estar identificado no Git do seu computador (nome e email):
+  * git config --list
+  * git config --global user.name "Fagner Viana"
+  * git config --global user.email "fagsantiago@gmail.com"
 5. Faça os comandos a seguir:
 
 Comandos | Descrição
