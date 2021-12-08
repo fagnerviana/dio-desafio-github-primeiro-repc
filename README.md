@@ -1,4 +1,4 @@
-# dio-desafio-github-primeiro-repc
+# Minhas Anotações
 Desafio de projeto sobre Git/GitHub 
 
 # Links Úteis
@@ -58,3 +58,24 @@ git status | Verifica arquivos
 git add . | Adiciona todos arquivos ao stage
 git commit -m "Projeto criado" | Salva uma nova versão do projeto
 git push -u origin master | Envia o repositório local para o repositório remoto
+
+## Trabalhando com um projeto existente
+ #### Passos:
+  1. IMPORTANTE: certifique-se de estar identificado no Git do seu computador (nome e email)
+   * git config --list
+   * git config --global user.name "Fagner Viana"
+   * git config --global user.email "fagsantiago@gmail.com"
+  2. Se o projeto já não estiver no seu computador, Clonar o repositório do Github
+    * git clone https://github.com/acenelio/meuprojeto.git
+  3. Altere o que você precisar no projeto
+  4. Commitar as mudanças feitas no projeto
+   4.1 Verificar arquivos
+     *git status
+   4.2 Realizar o Commit: 
+     *git add .
+     *git commit -m "Mensagem explicativa"
+   4.3 Listar histórico de commits: 
+     *git log --oneline
+  5. Salvar projeto atualizado no seu Github (push)
+     *git push
+
