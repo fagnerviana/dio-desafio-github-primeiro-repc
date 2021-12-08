@@ -10,5 +10,14 @@ O Git é o sistema opensource de controle de versão mais popular da internet.
 ## Porque preciso dos comandos Git
 É muito comum que empresas tenham mais de um dev trabalhando paralelamente no mesmo projeto. Então, em primeiro lugar, sistemas como o Git existem para o código não virar uma bagunça.
 
+## Estados
 
+* Modificado (modified);
+* Preparado (staged/index)
+* Consolidado (comitted);
+
+## Alguns Comandos
+
+###Ajuda 
+git help
 
