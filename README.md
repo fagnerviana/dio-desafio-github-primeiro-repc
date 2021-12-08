@@ -18,6 +18,6 @@ O Git é o sistema opensource de controle de versão mais popular da internet.
 
 ## Alguns Comandos
 
-### Ajuda 
-git help
-
+Comandos | Descrição
+-------- | --------
+git status | status resumido
