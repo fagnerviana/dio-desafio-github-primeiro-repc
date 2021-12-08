@@ -47,7 +47,8 @@ Github
   git config --list
   git config --global user.name "Fagner Viana"
   git config --global user.email "fagsantiago@gmail.com"
-5. Faça os comandos a seguir
+5. Faça os comandos a seguir:
+
 Comandos | Descrição
 -------- | --------
 git init | Inicia um novo repositório local na pasta do seu projeto
