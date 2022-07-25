@@ -66,7 +66,7 @@ git push -u origin master | Envia o repositório local para o repositório remot
    * git config --global user.name "Fagner Viana"
    * git config --global user.email "fagsantiago@gmail.com"
   2. Se o projeto já não estiver no seu computador, Clonar o repositório do Github
-    * git clone https://github.com/acenelio/meuprojeto.git
+    * git clone "SEU PROJETO"
   3. Altere o que você precisar no projeto
   4. Commitar as mudanças feitas no projeto
    4.1 Verificar arquivos
